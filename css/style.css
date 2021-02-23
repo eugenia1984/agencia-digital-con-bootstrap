@@ -6,6 +6,25 @@ body {
   font-size: 1.2rem;
 }
 
+/* Barra de navegacion*/
 .fondo-nav {
   background-color: var(--bs-nav);
+}
+
+/* Imagen de cabecera*/
+#inicio {
+  background-image: url(../img/concepto-creativo-estudio-diseno-ocupacion-ideas-fotografia_53876-42610.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 560px;
+}
+
+h1 {
+  padding-top: 9rem;
+  color: var(--bs-white);
+}
+.lead {
+  color: var(--bs-white);
+  font-weight: 400;
+  margin: 1rem 3rem;
 }
