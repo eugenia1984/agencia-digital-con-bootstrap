@@ -1,0 +1,11 @@
+:root {
+  --bs-nav: #581845; 
+}
+
+body {
+  font-size: 1.2rem;
+}
+
+.fondo-nav {
+  background-color: var(--bs-nav);
+}
