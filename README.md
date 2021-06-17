@@ -21,7 +21,7 @@ This Project only has one master branch, it was a small project so it did not ne
 ## Demo 📦
 
 If you want to see how this project was, you can do it from:
-:arrow_right: https://eugenia1984.github.io/agencia-digital-con-Bootstrap
+:arrow_right: https://eugenia1984.github.io/agencia-digital-con-bootstrap/
 
 ## Please: 🎁
 
